@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476329751 source:d:\c++_code\上机实验\上机实验四\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

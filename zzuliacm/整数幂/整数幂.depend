@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473168764 source:d:\c++自写代码\zzuliacm\整数幂\main.cpp
+	<iostream>
+	"math.h"
+

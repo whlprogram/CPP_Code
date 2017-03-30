@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483438276 source:d:\code\c++_code\codeblocks\test\main.cpp
+	<iostream>
+	<string.h>
+	<stdbool.h>
+

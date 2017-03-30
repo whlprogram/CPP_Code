@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474511200 source:d:\c++_code\实验二\src\lianxi2.cpp
+	"lianxi2.h"
+
+1474511200 d:\c++_code\实验二\include\lianxi2.h
+
+1474513862 source:d:\c++_code\实验二\main.cpp
+	<iostream>
+

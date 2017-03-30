@@ -1,0 +1,4 @@
+﻿  zy-0301.cpp
+zy-0301.cpp(33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  AssemblyInfo.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  zy-0301.vcxproj -> F:\教学课件\C++\实验\zy\Debug\zy-0301.exe
