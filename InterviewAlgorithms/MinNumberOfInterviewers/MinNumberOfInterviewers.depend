@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524908571 source:d:\code\cpp_code\interviewalgorithms\minnumberofinterviewers\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514224209 source:d:\code\cpp_code\os_bigwork\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<algorithm>
+

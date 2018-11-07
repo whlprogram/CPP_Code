@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537795261 source:d:\code\cpp_code\interviewalgorithms\头文件定义变量\main.cpp
+	<iostream>
+	"tou.h"
+
+1537795257 d:\code\cpp_code\interviewalgorithms\头文件定义变量\tou.h
+
+1537795558 source:d:\code\cpp_code\interviewalgorithms\头文件定义变量\test.cpp
+	<iostream>
+	"tou.h"
+	"tou.h"
+

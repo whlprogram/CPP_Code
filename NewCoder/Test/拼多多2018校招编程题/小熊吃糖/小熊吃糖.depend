@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532155064 source:d:\code\cpp_code\newcoder\test\拼多多2018校招编程题\小熊吃糖\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+

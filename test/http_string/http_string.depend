@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522467256 source:d:\code\cpp_code\test\http_string\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<map>
+	<algorithm>
+

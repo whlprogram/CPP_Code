@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522132166 source:d:\code\cpp_code\newcoder\t3\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+

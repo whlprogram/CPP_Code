@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537433786 source:d:\code\cpp_code\newcoder\滴滴出行 2019校园招聘研发试卷-9.18\t1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<set>
+	<algorithm>
+

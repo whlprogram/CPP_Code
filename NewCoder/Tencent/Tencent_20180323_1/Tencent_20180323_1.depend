@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521821648 source:d:\code\cpp_code\test\tencent_20180323_1\main.cpp
+	<iostream>
+	<cstdio>
+

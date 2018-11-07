@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524077944 source:d:\code\cpp_code\interviewalgorithms\string\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+

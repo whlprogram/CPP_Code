@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536221593 source:d:\code\cpp_code\interviewalgorithms\vector\main.cpp
+	<vector>
+	<iostream>
+	<iostream>
+	<vector>
+	<map>
+	<string>
+

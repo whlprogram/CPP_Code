@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1531659374 source:d:\code\cpp_code\newcoder\shenxinfu\t4\main.cpp
+	<iostream>
+	<cstring>
+	<utility>
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+	<string.h>
+
